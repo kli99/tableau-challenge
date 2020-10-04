@@ -1,5 +1,7 @@
 # Tableau Homework - Citi Bike Analytics
 
+https://public.tableau.com/profile/keke8085#!/vizhome/CitiBikeAnalysis_16017722314780/Final
+
 ### Before You Begin
 
 * This assignment will be saved to your Tableau Public account rather than GitHub. 
